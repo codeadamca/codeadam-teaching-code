@@ -1,4 +1,4 @@
-# codeadam-teaching-code
+# research-teaching-code
 
 In the winter semester of 2020 I was given the opportunity to visit a number of postsecondary educational institutions across the globe to research how they teach code.
 
