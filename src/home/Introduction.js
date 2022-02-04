@@ -10,8 +10,6 @@ class Introduction extends Component {
         <p>In the winter semester of 2020 I was given the opportunity to visit a number of postsecondary educational institutions across the globe to research how they teach code.</p>
         <p>This is a journal of my experience.</p>
 
-        <hr className="ca-hr" />
-
       </div>
     );
   }

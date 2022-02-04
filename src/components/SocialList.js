@@ -3,7 +3,7 @@ import React,{Component} from "react";
 import Error from './../components/Error';
 import Loading from './../components/Loading';
 
-class SocialList extends Component {
+class NavSocial extends Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -14,7 +14,7 @@ class SocialList extends Component {
   }
 
   componentDidMount() {
-    fetch(process.env.REACT_APP_API_URL + "socials/" + this.props.filter + "/" + this.props.value)
+    fetch(process.env.REACT_APP_API_URL + "socials/header/yes")
       .then(res => res.json())
       .then(
         (result) => {
@@ -40,19 +40,17 @@ class SocialList extends Component {
       return <Loading />;
     } else {
       return (
-        <div className="SocialList">
-          <article className="ca-container-800 w3-center">
-            {this.state.socials.map((social, index) => (
-              <a href={social.url} className="ca-font-none" key={index}>
-                <img src={social.image} className="ca-image-small ca-margin-small-horizontal ca-margin-small-vertical" alt="" />
-              </a>
-            ))}
-          </article>
-          <hr className="ca-hr" />
+        <div className="NavSocial">
+
+          {this.state.socials.map((social, index) => (
+            <a href={social.url} key={index}>
+              <img src={social.image} className="ca-image-icon ca-margin-small-horizontal" alt="" />
+            </a>
+          ))}
         </div>
       );
     }
   }
 }
 
-export default SocialList;
+export default NavSocial;
