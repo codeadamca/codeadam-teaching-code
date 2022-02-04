@@ -9,7 +9,7 @@ class Footer extends Component {
 
         <div className="ca-container-800 w3-center">
 
-        <hr className="ca-hr"></hr>
+          <hr className="ca-hr"></hr>
 
           <Switch>
             <Route path="/server-setup/*">
@@ -24,7 +24,7 @@ class Footer extends Component {
             </Route>
           </Switch>
 
-        </div>        
+        </div>
         
       </div>
     );
