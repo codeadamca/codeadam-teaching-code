@@ -13,7 +13,7 @@ import './App.css';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/teaching-code/">
       <ScrollToTop></ScrollToTop>
       <div className="App">
         
