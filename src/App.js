@@ -23,7 +23,7 @@ function App() {
 
           <Switch>
 
-            <Page exact path="/" component={Home} title=""></Page>
+            <Page exact path="/" component={Home} title="Teaching Code"></Page>
 
             <Page path="*" component={NotFound} title="Page Not Found"></Page>
             
