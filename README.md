@@ -8,6 +8,8 @@ Live journal can be viewed at:
 
 https://pages.codeadam.ca/research-teaching-code/
 
+![Teaching Pedagogies](https://github.com/codeadamca/codeadam-teaching-code/blob/main/screenshot-pedagogies.png?raw=true)
+
 ## Research Resources
 
 * [Humber College](https://humber.ca/)
