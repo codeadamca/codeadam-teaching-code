@@ -4,20 +4,19 @@ In the winter semester of 2020 I was given the opportunity to visit a number of 
 
 This is a journal of my experience.
 
-Live journal can be viewed at:
+![Teaching Pedagogies](_readme/screenshot-pedagogies.png)
 
-https://pages.codeadam.ca/research-teaching-code/
-
-![Teaching Pedagogies](https://github.com/codeadamca/codeadam-teaching-code/blob/main/screenshot-pedagogies.png?raw=true)
+> Live journal can be viewed at:  
+> https://pages.codeadam.ca/research-teaching-code/
 
 ## Research Resources
 
-* [Humber College](https://humber.ca/)
-* [Otago Polytechnic](https://www.op.ac.nz/)
-* [Otago University](https://www.otago.ac.nz/)
-* [VIA University College](https://en.via.dk/)
-* [Fontys](https://fontys.edu/)
-* [Juno College](https://junocollege.com/)
+- [Humber College](https://humber.ca/)
+- [Otago Polytechnic](https://www.op.ac.nz/)
+- [Otago University](https://www.otago.ac.nz/)
+- [VIA University College](https://en.via.dk/)
+- [Fontys](https://fontys.edu/)
+- [Juno College](https://junocollege.com/)
 
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
