@@ -9,7 +9,9 @@ This is a journal of my experience.
 > Live journal can be viewed at:  
 > https://pages.codeadam.ca/research-teaching-code/
 
-## Research Resources
+***
+
+## Repo Resources
 
 - [Humber College](https://humber.ca/)
 - [Otago Polytechnic](https://www.op.ac.nz/)
